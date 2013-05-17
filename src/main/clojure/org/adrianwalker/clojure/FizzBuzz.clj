@@ -1,4 +1,4 @@
-(ns org.adrianwalker.clojure.HelloWorld 
+(ns org.adrianwalker.clojure.FizzBuzz
   (:gen-class))
 
 (defn fizzbuzz [from to]
